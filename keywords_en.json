@@ -1,0 +1,74 @@
+{
+  "Food & Drink": [
+    "starbucks",
+    "coffee",
+    "restaurant",
+    "dinner",
+    "lunch",
+    "takeaway",
+    "kfc",
+    "mcdonald",
+    "food"
+  ],
+  "Transport": [
+    "uber",
+    "lyft",
+    "taxi",
+    "bus",
+    "train",
+    "metro",
+    "fuel",
+    "gas"
+  ],
+  "Shopping": [
+    "amazon",
+    "supermarket",
+    "groceries",
+    "mall",
+    "shop",
+    "target",
+    "walmart"
+  ],
+  "Rent": [
+    "rent",
+    "apartment",
+    "lease"
+  ],
+  "Utilities": [
+    "electric",
+    "water",
+    "internet",
+    "wifi",
+    "gas bill",
+    "utility"
+  ],
+  "Entertainment": [
+    "netflix",
+    "spotify",
+    "cinema",
+    "movie",
+    "game"
+  ],
+  "Medical": [
+    "hospital",
+    "pharmacy",
+    "clinic",
+    "medicine",
+    "doctor",
+    "dentist"
+  ],
+  "Education": [
+    "tuition",
+    "course",
+    "book",
+    "udemy",
+    "coursera"
+  ],
+  "Income": [
+    "salary",
+    "refund",
+    "bonus",
+    "scholarship"
+  ],
+  "Other": []
+}

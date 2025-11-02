@@ -1,0 +1,11 @@
+date,amount,category,note,account
+2025-10-01,12.5,Food & Drink,Starbucks latte,card
+2025-10-02,35.0,Transport,Uber to campus,card
+2025-10-02,1200.0,Rent,October rent,bank
+2025-10-03,68.2,Shopping,Woolworths groceries,card
+2025-10-05,15.9,Entertainment,Netflix monthly,card
+2025-10-12,220.0,Education,Course fee,card
+2025-10-14,45.0,Food & Drink,Dinner with friends,card
+2025-10-29,600.0,Food & Drink,have birthday,default
+2025-10-31,39.0,Medical,,default
+2025-09-20,44.0,Medical,,default
